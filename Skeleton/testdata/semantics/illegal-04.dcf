@@ -1,0 +1,7 @@
+class Program {
+	int b[2];
+	int a[0];	// bad array size
+	
+	void main() {
+	}							
+}
